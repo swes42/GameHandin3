@@ -4,8 +4,7 @@ Noell - Added more boulders, trees, and Selina's player person because I was cur
 I fiddled around more with Selina's player now and I ended up also deleting the main camera in my scene so I could see him move around. He's quite interesting haha.
 
 
-Selina - Worked on a player character and health bar but didn't quite finish it. I pushed it anyway. The player also has a script attached. The player can walk around. 
-
+Selina - Worked on a player character and health bar but didn't quite finish it. I pushed it anyway. The player also has a script attached. The player can walk around. If I had more time I would have liked to finish the health bar and polish up the conditions for the animations so that they fit better. Players sure are an interesting topic because there are so many aspects that you have to make sure works well together. 
 
 Malthe - 
 
